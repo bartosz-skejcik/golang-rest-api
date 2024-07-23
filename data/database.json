@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "j5on",
+      "email": "j5on@gmail.com",
+      "fullname": "Bartek Paczesny"
+    },
+    {
+      "id": 2,
+      "username": "EpicPlayerA10",
+      "email": "adam.lesiak@gmail.com",
+      "fullname": "Adam Lesiak"
+    },
+    {
+      "id": 3,
+      "username": "Wolfi",
+      "email": "seba.milioner@gmail.com",
+      "fullname": "Sebastian Sabanda"
+    },
+    {
+      "id": 4,
+      "username": "BlockSky_",
+      "email": "szymus.bomba@gmail.com",
+      "fullname": "Szymon Bomba"
+    }
+  ]
+}
